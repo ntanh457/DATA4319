@@ -1,0 +1,1 @@
+In this section, I tried to build Decision tree from scratch by ID3 algorithm in python. 

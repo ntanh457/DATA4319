@@ -1,0 +1,1 @@
+In this section, I tried to build SVM algorithm from scratch by online reference.  

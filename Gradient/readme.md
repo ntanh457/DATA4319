@@ -1,0 +1,1 @@
+In this section, I have built gradient descent in 2 versions Python and Julia. 
